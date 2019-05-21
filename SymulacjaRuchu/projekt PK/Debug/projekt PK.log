@@ -1,0 +1,47 @@
+﻿  obiektGraficzny.cpp
+  Samochod.cpp
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(8): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(10): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(12): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(14): warning C4244: "argument": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=unsigned int
+          ]
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(20): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(33): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(35): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(49): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(50): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(54): warning C4305: "argument": obcięcie z "double" do "float"
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(55): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\samochod.cpp(69): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+  Skrzyzowanie.cpp
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\skrzyzowanie.cpp(41): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Ulica.cpp
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(17): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(18): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(31): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(42): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(56): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(69): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(92): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(93): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(98): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(99): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(104): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(105): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(110): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(111): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(139): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\ulica.cpp(146): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Źródło.cpp
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\źródło.cpp(23): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\źródło.cpp(72): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\caput\source\repos\dominikcaputa\symulacjaruchu\projekt pk\źródło.cpp(90): warning C4305: "inicjowanie": obcięcie z "double" do "float"
+  Generowanie kodu...
+  projekt PK.vcxproj -> C:\Users\caput\Source\Repos\DominikCaputa\SymulacjaRuchu\Debug\projekt PK.exe
